@@ -2,7 +2,7 @@
 
 A custom flight management unit (FMU) designed for the **PX4 autopilot**, built around the **STM32H743VIT6** (Cortex-M7, 480 MHz). Designed in **Altium Designer** with a hierarchical multi-sheet schematic, 3D-printed enclosure included.
 
-![3D view](docs/images/pcb_3d_top.png)
+![3D view](Docs/images/pcb_3d_top.png)
 
 ## Highlights
 
