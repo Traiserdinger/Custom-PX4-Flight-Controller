@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Connector_FMU.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connector_FMU.SchDoc|FileName=FMU_FMU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connector_FMU.SchDoc|FileName=PWM_FMU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connector_FMU.SchDoc|FileName=SD_FMU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connector_FMU.SchDoc|FileName=Sensor_FMU.SchDoc|SheetNumber=3

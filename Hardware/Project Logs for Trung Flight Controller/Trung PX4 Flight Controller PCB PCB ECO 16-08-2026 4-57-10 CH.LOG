@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=+3.3 Pin=C37-2
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=VBAT_IN Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=R31-1
+Removed Pin From Net: NetName=GND Pin=U13-2
+Removed Pin From Net: NetName=+3.3 Pin=U13-5
+Removed Member From Class: ClassName=Sensor_FMU Member=C37
+Removed Member From Class: ClassName=Sensor_FMU Member=C38
+Removed Member From Class: ClassName=Sensor_FMU Member=R30
+Removed Member From Class: ClassName=Sensor_FMU Member=R31
+Removed Member From Class: ClassName=Sensor_FMU Member=U13
+Added Component: Designator=R29(RESC2013X65N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0805FR075K1L/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805-2 YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR075K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOIC127P599X175-8N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/INA219AIDR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "INA219AIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/INA219AIDR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=I2C2_SDA Pin=U5-3
+Added Pin To Net: NetName=I2C2_SCL Pin=U5-4
+Added Pin To Net: NetName=+3.3 Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=VBAT_IN Pin=U5-7
+Added Pin To Net: NetName=VBAT_IN Pin=U5-8
+Added Member To Class: ClassName=PWM_FMU Member=Component R29 120
+Added Member To Class: ClassName=Sensor_FMU Member=Component U5 INA219AIDR

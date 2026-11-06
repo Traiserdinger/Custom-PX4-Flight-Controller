@@ -1,0 +1,46 @@
+Change Component Footprint: Designator=C7 Old Footprint=CAPC2012X135N New Footprint=CAPC1608X90N
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPC2012X135N"; UniqueID = "\VNIWMRAU" ("\VNIWMRAU")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2012X135N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BR71H104KA01L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM21BR71H104KA01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "805-2 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BR71H104KA01L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC2012X135N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BR71H104KA01L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM21BR71H104KA01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "805-2 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BR71H104KA01L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC2012X135N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BR71H104KA01L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM21BR71H104KA01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "805-2 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BR71H104KA01L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+3.3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3.3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+3.3 Pin=C6-2
+Added Member To Class: ClassName=FMU_FMU Member=Component C4 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C5 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C6 100nF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C14 100nF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C16 100nF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C20 100nF
+Added Room: Name=Connector_FMU
+Added Room: Name=FMU_FMU
+Added Room: Name=PWM_FMU
+Added Room: Name=SD_FMU
+Added Room: Name=Sensor_FMU

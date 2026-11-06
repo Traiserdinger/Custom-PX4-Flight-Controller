@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=FPGA_SPI_MOSI Pin=ACCEL-4
+Added Pin To Net: NetName=FPGA_SPI_MISO Pin=ACCEL-5
+Added Pin To Net: NetName=FPGA_SPI_SCK Pin=ACCEL-6
+Added Pin To Net: NetName=OTG_FS_N Pin=U1-70
+Added Pin To Net: NetName=OTG_FS_P Pin=U1-71

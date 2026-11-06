@@ -1,0 +1,4 @@
+DJI F450 landing gear by ejo60 on Thingiverse: https://www.thingiverse.com/thing:1049276
+
+Summary:
+This is all you need to make a landing gear for a flamewheel F450 from DJI, the green tubes in the photo come from 11mm diameter plastic tubing they sold me in the local garden center. This type of tubing is used for growing plants etc.The printed parts should be glued together and then they fit on the struts at the end of the arms, strap them with plastic, and you've got a mounting hole for the 11mm tube, at the other side of the tube you glue the plastic cap. The caps in the stl files are different compared to the earlier ones I show in the photo, reason is that they tend to break, and the newest included here do not. The F450 flies super, you can see it in action in this movie https://youtu.be/Ri0lx3q2Dns and others on youtube.

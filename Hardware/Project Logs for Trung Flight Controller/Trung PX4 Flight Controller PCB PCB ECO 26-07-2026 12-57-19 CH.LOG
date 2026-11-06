@@ -1,0 +1,121 @@
+Change Component Description : Designator=D5 Old Description=A 5.0V, 400W, uni-directional, SMA pkg TVS Diode New Description=A 5.0V, 400W, uni-directional, SMA pkg TVS Diode | Bourns SMAJ5.0A
+Change Component Description : Designator=U13 Old Description=Microchip MCP601T-I/OT Op Amp, 2.8MHz CMOS, Rail to Rail, 3 V, 5 V, 5-Pin SOT-23 New Description=Microchip MCP601T-I/OT Op Amp, 2.8MHz CMOS, Rail to Rail, 3 V, 5 V, 5-Pin SOT-23 | Microchip Technology Inc. MCP601T-I/OT
+Added Member To Class: ClassName=FMU_FMU Member=Component C1 10pF
+Added Member To Class: ClassName=FMU_FMU Member=Component C2 10pF
+Added Member To Class: ClassName=FMU_FMU Member=Component C3 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C4 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C5 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C6 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C7 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C8 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C9 2.2uF
+Added Member To Class: ClassName=FMU_FMU Member=Component C10 2.2uF
+Added Member To Class: ClassName=FMU_FMU Member=Component C11 1uF
+Added Member To Class: ClassName=FMU_FMU Member=Component C12 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C13 1uF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C14 100nF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C15 100nF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C16 100nF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C17 2.2uF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C18 100nF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C19 2.2uF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C20 100nF
+Added Member To Class: ClassName=SD_FMU Member=Component C21 10uF
+Added Member To Class: ClassName=SD_FMU Member=Component C22 100nF
+Added Member To Class: ClassName=SD_FMU Member=Component C23 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C24 10uF
+Added Member To Class: ClassName=FMU_FMU Member=Component C25 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C26 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C27 10uF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C28 1uF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C29 22nF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C30 1uF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C31 100nF
+Added Member To Class: ClassName=PWM_FMU Member=Component C32 100nF
+Added Member To Class: ClassName=PWM_FMU Member=Component C33 100nF
+Added Member To Class: ClassName=PWM_FMU Member=Component C34 100nF
+Added Member To Class: ClassName=Connector_FMU Member=Component C35 10uF
+Added Member To Class: ClassName=PWM_FMU Member=Component C36 100nF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C37 100nF
+Added Member To Class: ClassName=Sensor_FMU Member=Component C38 100nF
+Added Member To Class: ClassName=FMU_FMU Member=Component C1002 8pF
+Added Member To Class: ClassName=FMU_FMU Member=Component C1003 8pF
+Added Member To Class: ClassName=FMU_FMU Member=Component D1 Power LED
+Added Member To Class: ClassName=Sensor_FMU Member=Component D2 Power LED
+Added Member To Class: ClassName=Connector_FMU Member=Component D3 SS34
+Added Member To Class: ClassName=FMU_FMU Member=Component D4 Power LED
+Added Member To Class: ClassName=Connector_FMU Member=Component D5 SMAJ5.0A
+Added Member To Class: ClassName=FMU_FMU Member=Component D6 Power LED
+Added Member To Class: ClassName=FMU_FMU Member=Component D7 Power LED
+Added Member To Class: ClassName=FMU_FMU Member=Component FB1 600
+Added Member To Class: ClassName=Connector_FMU Member=Component J1 USB Type-C 16 Pin SMD
+Added Member To Class: ClassName=Connector_FMU Member=Component J2 SS14
+Added Member To Class: ClassName=Connector_FMU Member=Component J3 ESC1
+Added Member To Class: ClassName=Connector_FMU Member=Component J4 CAN
+Added Member To Class: ClassName=Connector_FMU Member=Component J5 ESC2
+Added Member To Class: ClassName=Connector_FMU Member=Component J6 GPS
+Added Member To Class: ClassName=Connector_FMU Member=Component J7 ESC3
+Added Member To Class: ClassName=Connector_FMU Member=Component J8 ESC4
+Added Member To Class: ClassName=Connector_FMU Member=Component J9 Servo 1
+Added Member To Class: ClassName=Connector_FMU Member=Component J10 S4B-XH-SM4-TB
+Added Member To Class: ClassName=Connector_FMU Member=Component J11 Servo 2
+Added Member To Class: ClassName=Connector_FMU Member=Component J12 ROS2 uXRCE-DDS
+Added Member To Class: ClassName=Connector_FMU Member=Component J13 iA6B i-Bus
+Added Member To Class: ClassName=Connector_FMU Member=Component J14 FPGA Accel
+Added Member To Class: ClassName=Connector_FMU Member=Component J15 Power Input
+Added Member To Class: ClassName=Connector_FMU Member=Component J16 STLink Connector
+Added Member To Class: ClassName=Connector_FMU Member=Component LS1 Passive Buzzer 9mm
+Added Member To Class: ClassName=SD_FMU Member=Component P1 ST-TF-003A
+Added Member To Class: ClassName=Connector_FMU Member=Component Q1 MMBT3904
+Added Member To Class: ClassName=FMU_FMU Member=Component R1 10K
+Added Member To Class: ClassName=FMU_FMU Member=Component R2 10K
+Added Member To Class: ClassName=FMU_FMU Member=Component R3 10K
+Added Member To Class: ClassName=FMU_FMU Member=Component R4 4K7
+Added Member To Class: ClassName=FMU_FMU Member=Component R5 4K7
+Added Member To Class: ClassName=FMU_FMU Member=Component R6 4K7
+Added Member To Class: ClassName=FMU_FMU Member=Component R7 4K7
+Added Member To Class: ClassName=SD_FMU Member=Component R8 10K
+Added Member To Class: ClassName=SD_FMU Member=Component R9 10K
+Added Member To Class: ClassName=SD_FMU Member=Component R10 10K
+Added Member To Class: ClassName=SD_FMU Member=Component R11 10K
+Added Member To Class: ClassName=SD_FMU Member=Component R12 10K
+Added Member To Class: ClassName=Sensor_FMU Member=Component R13 10K
+Added Member To Class: ClassName=Sensor_FMU Member=Component R14 10K
+Added Member To Class: ClassName=Sensor_FMU Member=Component R15 10K
+Added Member To Class: ClassName=SD_FMU Member=Component R16 10K
+Added Member To Class: ClassName=SD_FMU Member=Component R17 22
+Added Member To Class: ClassName=SD_FMU Member=Component R18 22
+Added Member To Class: ClassName=SD_FMU Member=Component R19 22
+Added Member To Class: ClassName=SD_FMU Member=Component R20 22
+Added Member To Class: ClassName=SD_FMU Member=Component R21 22
+Added Member To Class: ClassName=SD_FMU Member=Component R22 22
+Added Member To Class: ClassName=SD_FMU Member=Component R23 10K
+Added Member To Class: ClassName=FMU_FMU Member=Component R24 220
+Added Member To Class: ClassName=Sensor_FMU Member=Component R25 220
+Added Member To Class: ClassName=Connector_FMU Member=Component R26 5.1K
+Added Member To Class: ClassName=Connector_FMU Member=Component R27 5.1K
+Added Member To Class: ClassName=Connector_FMU Member=Component R28 1K
+Added Member To Class: ClassName=PWM_FMU Member=Component R29 120
+Added Member To Class: ClassName=Sensor_FMU Member=Component R30 10K
+Added Member To Class: ClassName=Sensor_FMU Member=Component R31 1.5K
+Added Member To Class: ClassName=Connector_FMU Member=Component R32 120
+Added Member To Class: ClassName=FMU_FMU Member=Component R33 220
+Added Member To Class: ClassName=FMU_FMU Member=Component R34 220
+Added Member To Class: ClassName=FMU_FMU Member=Component R35 220
+Added Member To Class: ClassName=FMU_FMU Member=Component R36 220
+Added Member To Class: ClassName=FMU_FMU Member=Component S1 Safety ARM
+Added Member To Class: ClassName=FMU_FMU Member=Component U1 STM32H743VIT6
+Added Member To Class: ClassName=Sensor_FMU Member=Component U2 ICM-42688-P
+Added Member To Class: ClassName=Sensor_FMU Member=Component U3 ICP-20100
+Added Member To Class: ClassName=Sensor_FMU Member=Component U4 BMP388
+Added Member To Class: ClassName=Sensor_FMU Member=Component U5 MPU-9250
+Added Member To Class: ClassName=SD_FMU Member=Component U6 FM25V05-G
+Added Member To Class: ClassName=FMU_FMU Member=Component U7 AMS1117-3.3
+Added Member To Class: ClassName=Sensor_FMU Member=Component U8 RT9193-33GB
+Added Member To Class: ClassName=PWM_FMU Member=Component U9 SN74LVC244ADWR
+Added Member To Class: ClassName=PWM_FMU Member=Component U10 SN74LVC1T45DBVR
+Added Member To Class: ClassName=Connector_FMU Member=Component U11 USBLC6-2SC6
+Added Member To Class: ClassName=PWM_FMU Member=Component U12 SN65HVD230DR
+Added Member To Class: ClassName=Sensor_FMU Member=Component U13 MCP601T-I/OT
+Added Member To Class: ClassName=FMU_FMU Member=Component Y1 Crystal 24MHz
+Added Member To Class: ClassName=FMU_FMU Member=Component Y2 Crystal 32.768kHz

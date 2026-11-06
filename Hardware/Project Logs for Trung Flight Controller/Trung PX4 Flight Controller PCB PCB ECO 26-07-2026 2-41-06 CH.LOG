@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RESET Pin=C8-2
+Removed Pin From Net: NetName=RESET Pin=R2-1
+Removed Pin From Net: NetName=RESET Pin=U1-14
+Change Component Description : Designator=U1 Old Description=STM32H743VIT6 New Description=ARM® Cortex®-M7 STM32H7 Microcontroller IC 32-Bit Single-Core 480MHz 2MB (2M x 8) FLASH 100-LQFP (14x14)
+Change Net Name : Old Net Name=RESET New Net Name=GND
+Added Pin To Net: NetName=RESET Pin=C8-2
+Added Pin To Net: NetName=RESET Pin=R2-1
+Added Pin To Net: NetName=RESET Pin=U1-14
+Added Net: Name=RESET
+Added Room: Name=Connector_FMU
+Added Room: Name=FMU_FMU
+Added Room: Name=PWM_FMU
+Added Room: Name=SD_FMU
+Added Room: Name=Sensor_FMU

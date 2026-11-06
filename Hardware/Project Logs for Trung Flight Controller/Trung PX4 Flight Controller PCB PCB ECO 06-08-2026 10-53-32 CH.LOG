@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=+5 Pin=U7-1
+Removed Pin From Net: NetName=GND Pin=U7-3
+Change Component Comment : Designator=U7 Old Comment=AMS1117-3.3V New Comment=AMS1117-3.3
+Change component parameters: Designator = "U7" ("U7"); Footprint = "SOT229P700X180-4N"; UniqueID = "\LXUPXKFN" ("\LXUPXKFN")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/UMW/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "UMW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-223-3L UMW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/UMW/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J16(Pad Connector PCB)
+Added Pin To Net: NetName=+5 Pin=J16-1
+Added Pin To Net: NetName=SWCLK Pin=J16-2
+Added Pin To Net: NetName=SWDIO Pin=J16-3
+Added Pin To Net: NetName=NRST Pin=J16-4
+Added Pin To Net: NetName=GND Pin=J16-5
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=+5 Pin=U7-3
+Added Member To Class: ClassName=Connector_FMU Member=Component J16 Pad Connector
+Added Member To Class: ClassName=SD_FMU Member=Component P1 ST-TF-003A
+Added Member To Class: ClassName=FMU_FMU Member=Component U7 AMS1117-3.3
+Added Room: Name=Connector_FMU
+Added Room: Name=FMU_FMU
+Added Room: Name=PWM_FMU
+Added Room: Name=SD_FMU
+Added Room: Name=Sensor_FMU

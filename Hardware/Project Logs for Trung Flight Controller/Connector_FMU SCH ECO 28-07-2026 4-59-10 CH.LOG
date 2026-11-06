@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X94N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X94N
+Change Component Footprint: Designator=C11 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X152N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X152N
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X152N
+Change Component Comment: Designator=C1 Old Comment=1uF New Comment=10pF
+Change Component Comment: Designator=C13 Old Comment=10pF New Comment=1uF
+Change Component Comment: Designator=C12 Old Comment=10pF New Comment=100nF
+Change Component Comment: Designator=C2 Old Comment=100nF New Comment=10pF

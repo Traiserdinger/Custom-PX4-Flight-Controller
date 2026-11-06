@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=IMU1_DRDY Pin=U1-17
+Removed Pin From Net: NetName=IMU2_DRDY Pin=U1-18
+Removed Pin From Net: NetName=BARO1_CS Pin=U1-35
+Removed Pin From Net: NetName=BARO2_CS Pin=U1-93
+Removed Member From Class: ClassName=Connector_FMU Member=SERVO
+Change Component Description : Designator=D5 Old Description=A 5.0V, 400W, uni-directional, SMA pkg TVS Diode New Description=A 5.0V, 400W, uni-directional, SMA pkg TVS Diode | Bourns SMAJ5.0A
+Change Component Description : Designator=U13 Old Description=Microchip MCP601T-I/OT Op Amp, 2.8MHz CMOS, Rail to Rail, 3 V, 5 V, 5-Pin SOT-23 New Description=Microchip MCP601T-I/OT Op Amp, 2.8MHz CMOS, Rail to Rail, 3 V, 5 V, 5-Pin SOT-23 | Microchip Technology Inc. MCP601T-I/OT
+Added Pin To Net: NetName=BARO2_CS Pin=U1-35
+Added Pin To Net: NetName=IMU2_DRDY Pin=U1-67
+Added Pin To Net: NetName=IMU1_DRDY Pin=U1-69
+Added Pin To Net: NetName=BARO1_CS Pin=U1-93
+Change Net Name : Old Net Name=FMU_UART5_RX New Net Name=FMU_USART6_RX
+Added Pin To Net: NetName=FMU_USART6_TX Pin=U1-63
+Added Net: Name=FMU_USART6_TX

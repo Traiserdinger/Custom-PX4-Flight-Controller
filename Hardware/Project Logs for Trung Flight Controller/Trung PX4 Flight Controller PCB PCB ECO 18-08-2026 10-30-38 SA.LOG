@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=J11-3
+Removed Pin From Net: NetName=GND Pin=SERVO-3
+Removed Member From Class: ClassName=Connector_FMU Member=J11
+Change Component Comment : Designator=OP Old Comment=S4B-XH-SM4-TB New Comment=MTF-02P
+Added Component: Designator=J9(JST_S4B-XH-SM4-TB)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S4B/XH/SM4/TB/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S4B/XH/SM4/TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S4B/XH/SM4/TB/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J9-1
+Added Pin To Net: NetName=USART3_TX Pin=J9-2
+Added Pin To Net: NetName=USART3_RX Pin=J9-3
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Member To Class: ClassName=Connector_FMU Member=Component J9 Telemetry

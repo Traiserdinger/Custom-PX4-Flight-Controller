@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=D3 Old Footprint=DO214AB New Footprint=SODFL3618X143N
+Change Component Comment : Designator=D3 Old Comment=SS34 New Comment=SS34L
+Change component parameters: Designator = "D3" ("D3"); Footprint = "DO214AB"; UniqueID = "\LHNCJSFO" ("\LHNCJSFO")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS34L/taiwan/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SS34L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SUB SMA-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS34L/taiwan/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

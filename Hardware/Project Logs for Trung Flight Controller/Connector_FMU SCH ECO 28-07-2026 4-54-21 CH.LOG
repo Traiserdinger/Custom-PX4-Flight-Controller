@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X135N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X135N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X135N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X135N
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X135N
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X152N
+Change Component Footprint: Designator=C10 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X152N
+Change Pin Designator/Name:  Old Designator=C10-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C10-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C9-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C9-1 Old Name=1 New Designator =2 New Name=2

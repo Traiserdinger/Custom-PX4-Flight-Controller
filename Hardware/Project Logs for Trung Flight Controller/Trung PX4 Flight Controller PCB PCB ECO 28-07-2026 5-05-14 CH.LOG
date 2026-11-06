@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=PC14 Pin=C1-2
+Removed Pin From Net: NetName=PC15 Pin=C2-2
+Removed Pin From Net: NetName=+3.3 Pin=C5-2
+Removed Pin From Net: NetName=+3.3 Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+3.3 Pin=C11-1
+Removed Pin From Net: NetName=VADC Pin=C12-1
+Removed Pin From Net: NetName=VADC Pin=C13-1
+Removed Pin From Net: NetName=NetC9_1 Pin=U1-48
+Change Component Footprint: Designator=C1 Old Footprint=CAPC2012X94N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC2012X94N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC2012X135N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2012X135N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC2012X135N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC2012X135N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C9 Old Footprint=CAPC2012X152N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C10 Old Footprint=CAPC2012X152N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C11 Old Footprint=CAPC2012X152N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC2012X152N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C13 Old Footprint=CAPC2012X152N New Footprint=CAPC1608X90N
+Change Component Comment : Designator=C13 Old Comment=1uF New Comment=10pF
+Change Component Comment : Designator=C9 Old Comment=2.2uF New Comment=1uF
+Change Component Comment : Designator=C10 Old Comment=2.2uF New Comment=100nF
+Change Component Comment : Designator=C1 Old Comment=10pF New Comment=100nF
+Change Component Comment : Designator=C2 Old Comment=10pF New Comment=100nF
+Change Component Comment : Designator=C5 Old Comment=100nF New Comment=2.2uF
+Change Component Comment : Designator=C6 Old Comment=100nF New Comment=2.2uF
+Change Component Comment : Designator=C12 Old Comment=100nF New Comment=10pF
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC2012X135N"; UniqueID = "\LELKNPAA" ("\LELKNPAA")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC2012X135N"; UniqueID = "\ZXZPFVXD" ("\ZXZPFVXD")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC2012X135N"; UniqueID = "\YNHGDCKF" ("\YNHGDCKF")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAPC2012X135N"; UniqueID = "\GSBCDSCU" ("\GSBCDSCU")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC2012X94N"; UniqueID = "\UFHJOINL" ("\UFHJOINL")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC2012X94N"; UniqueID = "\HVZWLZUN" ("\HVZWLZUN")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC2012X152N"; UniqueID = "\OAXKIONG" ("\OAXKIONG")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAPC2012X152N"; UniqueID = "\QQEPVPAM" ("\QQEPVPAM")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAPC2012X152N"; UniqueID = "\TGXVYGLP" ("\TGXVYGLP")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAPC2012X152N"; UniqueID = "\SRBFQFSM" ("\SRBFQFSM")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC2012X152N"; UniqueID = "\LEZEVSND" ("\LEZEVSND")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM188R71H104KA93D/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C1-2
+Added Pin To Net: NetName=+3.3 Pin=C2-2
+Added Pin To Net: NetName=+3.3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VADC Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VADC Pin=C11-2
+Added Pin To Net: NetName=PC14 Pin=C12-1
+Added Pin To Net: NetName=PC15 Pin=C13-1
+Added Pin To Net: NetName=NetC9_1 Pin=FB1-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-48
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U1-73
+Added Net: Name=NetC6_2
+Added Room: Name=Connector_FMU
+Added Room: Name=FMU_FMU
+Added Room: Name=PWM_FMU
+Added Room: Name=SD_FMU
+Added Room: Name=Sensor_FMU

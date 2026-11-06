@@ -1,0 +1,7 @@
+Change Component Description : Designator=D5 Old Description=A 5.0V, 400W, uni-directional, SMA pkg TVS Diode New Description=A 5.0V, 400W, uni-directional, SMA pkg TVS Diode | Bourns SMAJ5.0A
+Change Component Description : Designator=U13 Old Description=Microchip MCP601T-I/OT Op Amp, 2.8MHz CMOS, Rail to Rail, 3 V, 5 V, 5-Pin SOT-23 New Description=Microchip MCP601T-I/OT Op Amp, 2.8MHz CMOS, Rail to Rail, 3 V, 5 V, 5-Pin SOT-23 | Microchip Technology Inc. MCP601T-I/OT
+Added Room: Name=Connector_FMU
+Added Room: Name=FMU_FMU
+Added Room: Name=PWM_FMU
+Added Room: Name=SD_FMU
+Added Room: Name=Sensor_FMU

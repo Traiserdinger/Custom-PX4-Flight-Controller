@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\PX4 Flight Controller\Trung PX4 Flight Controller PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=trung px4 flight controller pcb-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=trung px4 flight controller pcb-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

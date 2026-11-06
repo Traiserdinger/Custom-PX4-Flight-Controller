@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CAN_H Pin=CAN-2
+Removed Pin From Net: NetName=CAN_L Pin=CAN-3
+Removed Pin From Net: NetName=CAN_H Pin=R32-1
+Removed Pin From Net: NetName=CAN_L Pin=R32-2
+Change Component Description : Designator=D5 Old Description=A 5.0V, 400W, uni-directional, SMA pkg TVS Diode New Description=A 5.0V, 400W, uni-directional, SMA pkg TVS Diode | Bourns SMAJ5.0A
+Change Component Description : Designator=U13 Old Description=Microchip MCP601T-I/OT Op Amp, 2.8MHz CMOS, Rail to Rail, 3 V, 5 V, 5-Pin SOT-23 New Description=Microchip MCP601T-I/OT Op Amp, 2.8MHz CMOS, Rail to Rail, 3 V, 5 V, 5-Pin SOT-23 | Microchip Technology Inc. MCP601T-I/OT
+Change Net Name : Old Net Name=USB_DN_CONN New Net Name=USB_CONN_N
+Change Net Name : Old Net Name=USB_DP_CONN New Net Name=USB_CONN_P
+Added Pin To Net: NetName=CAN_N Pin=CAN-3
+Added Pin To Net: NetName=CAN_N Pin=R32-2
+Added Net: Name=CAN_N
+Added Pin To Net: NetName=CAN_P Pin=CAN-2
+Added Pin To Net: NetName=CAN_P Pin=R32-1
+Added Net: Name=CAN_P
+Added Differential Pair: Name=CAN
+Added Differential Pair: Name=USB_CONN

@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=FPGA_SPI_MOSI Pin=ACCEL-4
+Removed Pin From Net: NetName=FPGA_SPI_MISO Pin=ACCEL-5
+Removed Pin From Net: NetName=FPGA_SPI_SCK Pin=ACCEL-6
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=OTG_FS_P Pin=U1-70
+Removed Pin From Net: NetName=OTG_FS_N Pin=U1-71
+Removed Pin From Net: NetName=BARO2_CS Pin=U3-1
+Removed Pin From Net: NetName=VCC_3V3_SENS Pin=U3-5
+Removed Pin From Net: NetName=SPI3_MISO Pin=U3-6
+Removed Pin From Net: NetName=VCC_3V3_SENS Pin=U5-8
+Removed Pin From Net: NetName=SPI1_MISO Pin=U5-9
+Removed Pin From Net: NetName=GND Pin=U5-11
+Removed Pin From Net: NetName=IMU2_DRDY Pin=U5-12
+Removed Pin From Net: NetName=VCC_3V3_SENS Pin=U5-13
+Removed Pin From Net: NetName=GND Pin=U5-18
+Removed Pin From Net: NetName=IMU2_CS Pin=U5-22
+Removed Pin From Net: NetName=SPI1_SCK Pin=U5-23
+Removed Pin From Net: NetName=SPI1_MOSI Pin=U5-24
+Removed Pin From Net: NetName=GND Pin=U5-25
+Change Component Footprint: Designator=U3 Old Footprint=PQFN50P200X200X85-10N New Footprint=BMP581
+Change Component Footprint: Designator=U4 Old Footprint=XDCR_BMP388 New Footprint=XDCR_BMP390L
+Change Component Comment : Designator=U4 Old Comment=BMP388 New Comment=BMP390L
+Change Component Comment : Designator=U3 Old Comment=ICP-20100 New Comment=BMP581
+Change Component Comment : Designator=J11 Old Comment=SERVO New Comment=Servo 2
+Added Component: Designator=MT1(XDCR_ICM-42670-P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ICM-42670-P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R29(RESC2013X65N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0805FR075K1L/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805-2 YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR075K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI4_MOSI Pin=ACCEL-4
+Added Pin To Net: NetName=SPI4_MISO Pin=ACCEL-5
+Added Pin To Net: NetName=SPI4_SCK Pin=ACCEL-6
+Added Pin To Net: NetName=SPI1_MISO Pin=MT1-1
+Added Pin To Net: NetName=GND Pin=MT1-2
+Added Pin To Net: NetName=GND Pin=MT1-3
+Added Pin To Net: NetName=IMU2_DRDY Pin=MT1-4
+Added Pin To Net: NetName=VCC_3V3_SENS Pin=MT1-5
+Added Pin To Net: NetName=GND Pin=MT1-6
+Added Pin To Net: NetName=GND Pin=MT1-7
+Added Pin To Net: NetName=VCC_3V3_SENS Pin=MT1-8
+Added Pin To Net: NetName=GND Pin=MT1-10
+Added Pin To Net: NetName=GND Pin=MT1-11
+Added Pin To Net: NetName=IMU2_CS Pin=MT1-12
+Added Pin To Net: NetName=SPI1_SCK Pin=MT1-13
+Added Pin To Net: NetName=SPI1_MOSI Pin=MT1-14
+Added Pin To Net: NetName=VCC_3V3_SENS Pin=U3-1
+Added Pin To Net: NetName=SPI3_MISO Pin=U3-5
+Added Pin To Net: NetName=BARO2_CS Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Member To Class: ClassName=Sensor_FMU Member=Component MT1 ICM-42670-P
+Added Member To Class: ClassName=PWM_FMU Member=Component R29 120
+Added Member To Class: ClassName=Sensor_FMU Member=Component U3 BMP581
+Added Member To Class: ClassName=Sensor_FMU Member=Component U4 BMP390L

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C29 Old Footprint=CAPC2012X135N New Footprint=CAPC1608X90N
+Change Component Comment : Designator=C30 Old Comment=1uF New Comment=100nF
+Change Component Comment : Designator=C31 Old Comment=100nF New Comment=1uF
+Added Room: Name=Connector_FMU
+Added Room: Name=FMU_FMU
+Added Room: Name=PWM_FMU
+Added Room: Name=SD_FMU
+Added Room: Name=Sensor_FMU

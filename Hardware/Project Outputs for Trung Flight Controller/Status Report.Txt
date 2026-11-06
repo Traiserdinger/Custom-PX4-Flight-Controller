@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Trung Flight Controller.PrjPcb]
+   Generated File[Trung PX4 Flight Controller PCB-RoundHoles.TXT]
+   Generated File[Trung PX4 Flight Controller PCB-SlotHoles.TXT]
+   Generated File[Trung PX4 Flight Controller PCB.LDP]
+   Generated File[Trung PX4 Flight Controller PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:51:34 SA On 24/08/2026

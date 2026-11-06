@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=CAN_N Pin=R29-1
+Added Pin To Net: NetName=CAN_P Pin=R29-2
+Added Pin To Net: NetName=CAN_N Pin=U12-6
+Added Pin To Net: NetName=CAN_P Pin=U12-7

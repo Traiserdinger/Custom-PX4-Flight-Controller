@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VBUS Pin=2-A
+Removed Pin From Net: NetName=+5 Pin=2-C
+Change Component Designator: OldDesignator=MCU NewDesignator=D1
+Change Component Designator: OldDesignator=SAFE NewDesignator=D4
+Change Component Designator: OldDesignator=Safety Switch NewDesignator=S1
+Change Component Designator: OldDesignator=SENS NewDesignator=D2
+Change Component Designator: OldDesignator=SERVO NewDesignator=D6
+Change Component Designator: OldDesignator=SERVO NewDesignator=D7
+Added Component: Designator=D3(DO-214AC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS34A/Applied+Avionics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microdiode Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS34A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS34A/Applied+Avionics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=D3-A
+Added Pin To Net: NetName=+5 Pin=D3-C
+Added Member To Class: ClassName=Connector_FMU Member=Component D3 SS34-A
+Added Member To Class: ClassName=FMU_FMU Member=Component D4 Power LED
+Added Member To Class: ClassName=FMU_FMU Member=Component D7 Power LED
+Added Room: Name=Connector_FMU
+Added Room: Name=FMU_FMU
+Added Room: Name=PWM_FMU
+Added Room: Name=SD_FMU
+Added Room: Name=Sensor_FMU

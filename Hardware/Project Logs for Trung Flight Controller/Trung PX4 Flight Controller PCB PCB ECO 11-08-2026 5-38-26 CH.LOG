@@ -1,0 +1,37 @@
+Added Component: Designator=U3(BMP581)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BMP581/Bosch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bosch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BMP581"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BMP581/Bosch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(XDCR_BMP390L)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BMP390L/Bosch+Sensortec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bosch Sensortec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BMP390L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BMP390L/Bosch+Sensortec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI4_MOSI Pin=ACCEL-4
+Added Pin To Net: NetName=SPI4_MISO Pin=ACCEL-5
+Added Pin To Net: NetName=SPI4_SCK Pin=ACCEL-6
+Added Pin To Net: NetName=VCC_3V3_SENS Pin=U3-1
+Added Pin To Net: NetName=SPI3_SCK Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=SPI3_MOSI Pin=U3-4
+Added Pin To Net: NetName=SPI3_MISO Pin=U3-5
+Added Pin To Net: NetName=BARO2_CS Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=VCC_3V3_SENS Pin=U3-10
+Added Pin To Net: NetName=VCC_3V3_SENS Pin=U4-1
+Added Pin To Net: NetName=SPI1_SCK Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=SPI1_MOSI Pin=U4-4
+Added Pin To Net: NetName=SPI1_MISO Pin=U4-5
+Added Pin To Net: NetName=BARO1_CS Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=VCC_3V3_SENS Pin=U4-10
+Added Member To Class: ClassName=Sensor_FMU Member=Component U3 BMP581
+Added Member To Class: ClassName=Sensor_FMU Member=Component U4 BMP390L

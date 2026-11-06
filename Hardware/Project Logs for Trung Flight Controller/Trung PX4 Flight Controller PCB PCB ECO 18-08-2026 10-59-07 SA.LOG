@@ -1,0 +1,7 @@
+Change Component Comment : Designator=ERROR Old Comment=Power LED New Comment=Error LED
+Change Component Comment : Designator=KERNEL Old Comment=Power LED New Comment=Kernel LED
+Change Component Comment : Designator=MCU Old Comment=Power LED New Comment=MCU LED
+Change Component Comment : Designator=SAFE Old Comment=Power LED New Comment=Safety LED
+Change Component Comment : Designator=SENS Old Comment=Power LED New Comment=Sensor LED
+Change Net Name : Old Net Name=LED1_STATUS New Net Name=FMU_ACT_LED
+Change Net Name : Old Net Name=LED2_STATUS New Net Name=FMU_ERR_LED
