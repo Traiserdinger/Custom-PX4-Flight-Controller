@@ -1,0 +1,21 @@
+Cross Section Report
+C:/Users/tiend/Allergo Project/allegro/FMU_V1.1_REVB_TEST.brd
+Thu Nov 19 14:54:23 2026
+
+Design Cross Section
+Subclass Name,Type,Material,Thickness (MM),Tol +,Tol -,Conductivity (mho/cm),Dielectric Constant,Loss Tangent,Negative Artwork,Shield,Width (MM),Unused Pin Pad Suppression,Unused Via Pad Suppression
+,SURFACE,AIR,,,,0,1,0,,,,,
+TOP,CONDUCTOR,COPPER,0.0345,0,0,596000,1,0,,,0.2200,,
+,DIELECTRIC,FR-4,0.2786,0,0,0,4.5,0.035,,,,,
+SOLID TOP GND,PLANE,COPPER,0.0345,0,0,596000,1,0,,Yes,,,
+,DIELECTRIC,FR-4,0.2786,0,0,0,4.5,0.035,,,,,
+SIGNAL,CONDUCTOR,COPPER,0.0345,0,0,596000,1,0,,,0.1270,,
+,DIELECTRIC,FR-4,0.2786,0,0,0,4.5,0.035,,,,,
+POWER,PLANE,COPPER,0.0345,0,0,596000,1,0,,Yes,,,
+,DIELECTRIC,FR-4,0.2786,0,0,0,4.5,0.035,,,,,
+SOLID BOTTOM GND,PLANE,COPPER,0.0345,0,0,596000,1,0,,Yes,,,
+,DIELECTRIC,FR-4,0.2786,0,0,0,4.5,0.035,,,,,
+BOTTOM,CONDUCTOR,COPPER,0.0345,0,0,596000,1,0,,,0.2200,,
+,SURFACE,AIR,,,,0,1,0,,,,,
+
+Total Thickness: 1.6 MM
