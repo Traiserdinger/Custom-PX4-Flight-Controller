@@ -1,0 +1,13 @@
+DRC Error Report
+C:/Users/tiend/Allergo Project/allegro/FMU_V1.1_REVB.brd
+Fri Nov 20 16:09:39 2026
+
+DRC Error Count Summary
+DRC Error Type,DRC Error Count
+Route Keepin,1
+Total DRC Errors,1
+
+Detailed DRC Errors
+Constraint Name,DRC Marker Location,DRC Subclass,Required Value,Actual Value,Constraint Source,Constraint Source Type,Element 1,Element 2
+Shape to Route Keepin Spacing,(40.4000 31.5528),SIGNAL,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepin/All",Shape(auto-generated) "Gnd  Etch/Signal"
+

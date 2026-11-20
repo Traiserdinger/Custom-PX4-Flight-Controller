@@ -1,0 +1,37 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Dynamic Status Report                                      )
+(                                                                     )
+(    Drawing          : FMU_V1.1_REVB.brd                             )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Fri Nov 20 16:09:40 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 0 out of 9
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+       State: Smooth       Point on shape: (37.0000 0.1000)  Net: GND
+
+    Layer = SOLID TOP GND
+       State: Smooth       Point on shape: (37.0000 0.1000)  Net: GND
+
+    Layer = SIGNAL
+       State: Smooth       Point on shape: (37.0000 0.1000)  Net: GND
+
+    Layer = POWER
+       State: Smooth       Point on shape: (3.5000 40.3999)  Net: +5
+       State: Smooth       Point on shape: (19.1500 10.5000)  Net: +5
+       State: Smooth       Point on shape: (26.3500 32.8500)  Net: +3.3_SENS
+       State: Smooth       Point on shape: (37.0000 0.1000)  Net: +3.3_MCU
+
+    Layer = SOLID BOTTOM GND
+       State: Smooth       Point on shape: (37.0000 0.1000)  Net: GND
+
+    Layer = BOTTOM
+       State: Smooth       Point on shape: (37.0000 0.1000)  Net: GND

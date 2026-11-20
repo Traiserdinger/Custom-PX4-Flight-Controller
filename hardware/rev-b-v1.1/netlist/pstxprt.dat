@@ -1,0 +1,1671 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Nov-18-2026 at 10:44:39 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='TRUNG PX4 FLIGHT CONTROL';
+ POST_TIME='Sep  4 2024 20:54:11';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ BARO 'BMP581_QFN10_BMP581_BOS_BMP581':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS1590@BMP580.BMP581.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins1590@bmp580.\bmp581.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins1590@bmp580.\bmp581.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,440)',
+ SECTION='';
+
+PART_NAME
+ BUCK '597-3305-607F_LEDC2012X70N_BUCK LED_DIO-000002':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS30553@597-3305-607F.597-3305-607F.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins30553@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins30553@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,480)',
+ SECTION='';
+
+PART_NAME
+ C1 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):INS15070@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):ins15070@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_ins15070@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,530)',
+ SECTION='';
+
+PART_NAME
+ C10 '0603YC104KAZ2A_CAPC1608X90N_10UF':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS136@CAPACITOR 10UF 0603.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins136@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins136@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,50)',
+ SECTION='';
+
+PART_NAME
+ C11 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS3093@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins3093@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins3093@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,40)',
+ SECTION='';
+
+PART_NAME
+ C12 'CL05B104KO5NNNC_CAP_CL05_SAM_2.2 UF_CAP-000024':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS3119@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins3119@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins3119@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,40)',
+ SECTION='';
+
+PART_NAME
+ C13 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS79@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins79@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins79@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,50)',
+ SECTION='';
+
+PART_NAME
+ C14 'CL05B104KO5NNNC_CAP_CL05_SAM_22 NF_CAP-000026':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS249@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins249@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins249@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,50)',
+ SECTION='';
+
+PART_NAME
+ C15 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS95@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins95@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins95@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,50)',
+ SECTION='';
+
+PART_NAME
+ C16 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS14650@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins14650@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins14650@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,230)',
+ SECTION='';
+
+PART_NAME
+ C17 '0603YC104KAZ2A_CAPC1608X90N_10UF':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS14676@CAPACITOR 100NF 0603.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins14676@\capacitor 100nf 0603\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins14676@\capacitor 100nf 0603\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,230)',
+ SECTION='';
+
+PART_NAME
+ C18 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS4504@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins4504@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins4504@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,250)',
+ SECTION='';
+
+PART_NAME
+ C19 'CL05B104KO5NNNC_CAP_CL05_SAM_2.2 UF_CAP-000024':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS4530@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins4530@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins4530@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,250)',
+ SECTION='';
+
+PART_NAME
+ C2 '0603YC104KAZ2A_CAPC1608X90N_10 UF_CAP-000013':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS19557@CAPACITOR 10UF 0603.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins19557@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins19557@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,130)',
+ SECTION='';
+
+PART_NAME
+ C20 'CL05B104KO5NNNC_CAP_CL05_SAM_220 NF_CAP-000025':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS14186@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins14186@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins14186@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,280)',
+ SECTION='';
+
+PART_NAME
+ C21 'CL05B104KO5NNNC_CAP_CL05_SAM_4.7 UF_CAP-000027':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS15054@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins15054@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins15054@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,290)',
+ SECTION='';
+
+PART_NAME
+ C22 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS2037@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins2037@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins2037@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(10,460)',
+ SECTION='';
+
+PART_NAME
+ C23 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS2527@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins2527@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins2527@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,450)',
+ SECTION='';
+
+PART_NAME
+ C24 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS1869@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins1869@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins1869@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,50)',
+ SECTION='';
+
+PART_NAME
+ C25 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS1807@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins1807@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins1807@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,60)',
+ SECTION='';
+
+PART_NAME
+ C26 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS1745@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins1745@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins1745@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,70)',
+ SECTION='';
+
+PART_NAME
+ C27 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS1684@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins1684@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins1684@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,80)',
+ SECTION='';
+
+PART_NAME
+ C28 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS1227@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins1227@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins1227@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,90)',
+ SECTION='';
+
+PART_NAME
+ C29 'CL05B104KO5NNNC_CAP_CL05_SAM_2.2 UF_CAP-000024':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS3345@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins3345@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins3345@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,120)',
+ SECTION='';
+
+PART_NAME
+ C3 '0603YC104KAZ2A_CAPC1608X90N_10UF_CAP-000011':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS12825@CAPACITOR 100NF 0603.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins12825@\capacitor 100nf 0603\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins12825@\capacitor 100nf 0603\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,30)',
+ SECTION='';
+
+PART_NAME
+ C30 'CL05B104KO5NNNC_CAP_CL05_SAM_2.2 UF_CAP-000024':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS3387@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins3387@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins3387@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,130)',
+ SECTION='';
+
+PART_NAME
+ C31 'T491A106K010ATAUTO_CAPMP3216X180N_10UF':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS9902@TANTALUM CAPACITOR 10UF 1206.T491A106K010ATAUTO.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins9902@\tantalum capacitor 10uf 1206\.\t491a106k010atauto.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins9902@\tantalum capacitor 10uf 1206\.\t491a106k010atauto.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,300)',
+ SECTION='';
+
+PART_NAME
+ C32 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS8004@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins8004@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins8004@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,300)',
+ SECTION='';
+
+PART_NAME
+ C33 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS8020@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins8020@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins8020@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,300)',
+ SECTION='';
+
+PART_NAME
+ C34 'T491A106K010ATAUTO_CAPMP3216X180N_10UF':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS9918@TANTALUM CAPACITOR 10UF 1206.T491A106K010ATAUTO.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins9918@\tantalum capacitor 10uf 1206\.\t491a106k010atauto.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins9918@\tantalum capacitor 10uf 1206\.\t491a106k010atauto.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,300)',
+ SECTION='';
+
+PART_NAME
+ C37 'CL05B104KO5NNNC_CAP_CL05_SAM_10 PF_CAP-000021':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS5378@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins5378@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins5378@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,440)',
+ SECTION='';
+
+PART_NAME
+ C38 'CL05B104KO5NNNC_CAP_CL05_SAM_10 PF_CAP-000021':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS5405@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins5405@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins5405@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,510)',
+ SECTION='';
+
+PART_NAME
+ C39 'CL05B104KO5NNNC_CAP_CL05_SAM_1 UF_CAP-000023':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS47649@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins47649@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins47649@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,40)',
+ SECTION='';
+
+PART_NAME
+ C4 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS223@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins223@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins223@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(10,50)',
+ SECTION='';
+
+PART_NAME
+ C40 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS20719@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins20719@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins20719@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,40)',
+ SECTION='';
+
+PART_NAME
+ C41 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS35182@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins35182@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins35182@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,80)',
+ SECTION='';
+
+PART_NAME
+ C42 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS45159@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins45159@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins45159@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,120)',
+ SECTION='';
+
+PART_NAME
+ C43 'CL05B104KO5NNNC_CAP_CL05_SAM_1 UF_CAP-000023':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS45216@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins45216@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins45216@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,120)',
+ SECTION='';
+
+PART_NAME
+ C44 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS20897@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins20897@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins20897@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,210)',
+ SECTION='';
+
+PART_NAME
+ C45 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS45708@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins45708@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins45708@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,240)',
+ SECTION='';
+
+PART_NAME
+ C46 '0603YC104KAZ2A_CAPC1608X90N_10UF_CAP-000011':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS30365@CAPACITOR 100NF 0603.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins30365@\capacitor 100nf 0603\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins30365@\capacitor 100nf 0603\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(10,380)',
+ SECTION='';
+
+PART_NAME
+ C47 'CL05B104KO5NNNC_CAP_CL05_SAM_10 NF_CAP-000020':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS30381@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins30381@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins30381@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,380)',
+ SECTION='';
+
+PART_NAME
+ C48 'CL32B226KAJNNWE_CAPC3225X270N_22 UF_CAP-000017':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS50007@CAPACITOR 22UF 1210.CL32B226KAJNNWE.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins50007@\capacitor 22uf 1210\.\cl32b226kajnnwe.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins50007@\capacitor 22uf 1210\.\cl32b226kajnnwe.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,400)',
+ SECTION='';
+
+PART_NAME
+ C49 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS50113@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins50113@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins50113@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,470)',
+ SECTION='';
+
+PART_NAME
+ C5 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS12799@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins12799@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins12799@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,30)',
+ SECTION='';
+
+PART_NAME
+ C50 'CL32B226KAJNNWE_CAPC3225X270N_22 UF_CAP-000017':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS50181@CAPACITOR 22UF 1210.CL32B226KAJNNWE.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins50181@\capacitor 22uf 1210\.\cl32b226kajnnwe.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins50181@\capacitor 22uf 1210\.\cl32b226kajnnwe.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,400)',
+ SECTION='';
+
+PART_NAME
+ C53 'CL05B104KO5NNNC_CAP_CL05_SAM_1 NF_CAP-000022':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS50992@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins50992@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins50992@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,400)',
+ SECTION='';
+
+PART_NAME
+ C54 'CL05B104KO5NNNC_CAP_CL05_SAM_220 NF_CAP-000025':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS51132@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins51132@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins51132@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,560)',
+ SECTION='';
+
+PART_NAME
+ C55 'CL05B104KO5NNNC_CAP_CL05_SAM_68 PF_CAP-000028':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS51346@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins51346@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins51346@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,520)',
+ SECTION='';
+
+PART_NAME
+ C56 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000019':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS51714@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins51714@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins51714@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,380)',
+ SECTION='';
+
+PART_NAME
+ C57 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS47172@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins47172@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins47172@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,370)',
+ SECTION='';
+
+PART_NAME
+ C58 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS47236@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins47236@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins47236@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,460)',
+ SECTION='';
+
+PART_NAME
+ C7 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS28599@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins28599@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins28599@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,260)',
+ SECTION='';
+
+PART_NAME
+ C8 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS30546@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins30546@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins30546@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,350)',
+ SECTION='';
+
+PART_NAME
+ C9 '0603YC104KAZ2A_CAPC1608X90N_10UF':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS120@CAPACITOR 10UF 0603.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins120@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins120@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(10,50)',
+ SECTION='';
+
+PART_NAME
+ CAN 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_CAN1 CONNECTOR_CON-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS26399@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins26399@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page3_ins26399@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,200)',
+ SECTION='';
+
+PART_NAME
+ CR1 'USBLC6-4SC6_SOT23-6L_STM-L_USBLC6-4SC6_DIO-000007':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS46394@USBLC6-4SC6.USBLC6-4SC6.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins46394@\usblc6-4sc6\.\usblc6-4sc6.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins46394@\usblc6-4sc6\.\usblc6-4sc6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,330)',
+ SECTION='';
+
+PART_NAME
+ CR2 'USBLC6-4SC6_SOT23-6L_STM-L_USBLC6-4SC6_DIO-000007':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS46461@USBLC6-4SC6.USBLC6-4SC6.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins46461@\usblc6-4sc6\.\usblc6-4sc6.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins46461@\usblc6-4sc6\.\usblc6-4sc6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,420)',
+ SECTION='';
+
+PART_NAME
+ D1 'SDD_AKAK_SOT23_BAT54S_DIO-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):INS32451@DIODE SCHOTTKY BAT54S.SDD_AKAK.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):ins32451@\diode schottky bat54s\.\sdd_akak.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_ins32451@\diode schottky bat54s\.\sdd_akak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,500)',
+ SECTION='';
+
+PART_NAME
+ D10 'SS34_0_DO-214AC_SS34-A_DIO-000005':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS34643@TRUNG PX4 FLIGHT CONTROL.SS34_0.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins34643@\trung px4 flight control\.\ss34_0.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins34643@\trung px4 flight control\.\ss34_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,380)',
+ SECTION='';
+
+PART_NAME
+ D11 'SS34_0_DO-214AC_SS34_DIO-000005':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS56742@TRUNG PX4 FLIGHT CONTROL.SS34_0.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins56742@\trung px4 flight control\.\ss34_0.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins56742@\trung px4 flight control\.\ss34_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,400)',
+ SECTION='';
+
+PART_NAME
+ D2 'SS34_0_DO-214AC_SS34A_DIO-000005':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS25344@TRUNG PX4 FLIGHT CONTROL.SS34_0.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins25344@\trung px4 flight control\.\ss34_0.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins25344@\trung px4 flight control\.\ss34_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,40)',
+ SECTION='';
+
+PART_NAME
+ D9 'SDD_AKAK_SOT23_BAT54S_DIO-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS35210@DIODE SCHOTTKY BAT54S.SDD_AKAK.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins35210@\diode schottky bat54s\.\sdd_akak.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins35210@\diode schottky bat54s\.\sdd_akak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,30)',
+ SECTION='';
+
+PART_NAME
+ ERROR '597-3305-607F_LEDC2012X70N_ERROR LED':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS8172@597-3305-607F.597-3305-607F.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins8172@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins8172@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,110)',
+ SECTION='';
+
+PART_NAME
+ GPS 'SM06B-SRSS-TBLFSN_JST_SM06B-SRSS-TBLFSN_GPS CONNECTOR_CON-000009':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS22969@SH1.0 6 PIN SMD.SM06B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins22969@\sh1.0 6 pin smd\.\sm06b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page3_ins22969@\sh1.0 6 pin smd\.\sm06b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,20)',
+ SECTION='';
+
+PART_NAME
+ I2C1 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_I2C2 CONNECTOR_CON-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS23649@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins23649@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page3_ins23649@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,20)',
+ SECTION='';
+
+PART_NAME
+ I2C2 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_I2C2 CONNECTOR_CON-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS23229@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins23229@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page3_ins23229@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,20)',
+ SECTION='';
+
+PART_NAME
+ IMU1 'ICM-42670-P_XDCR_ICM-42670-P_ICM-42670-P':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS2999@ICM-42670-P.ICM-42670-P.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins2999@\icm-42670-p\.\icm-42670-p.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins2999@\icm-42670-p\.\icm-42670-p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,20)',
+ SECTION='';
+
+PART_NAME
+ J1 '10155435-00011LF_AMPHENOL_10155435-00011LF_USB TYPE C 16 PIN SMD_CON-000002':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS18383@USB TYPE C 16 PIN SMD.10155435-00011LF.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins18383@\usb type c 16 pin smd\.\10155435-00011lf.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins18383@\usb type c 16 pin smd\.\10155435-00011lf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,40)',
+ SECTION='';
+
+PART_NAME
+ J15 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_UART4_CON-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS42322@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins42322@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page3_ins42322@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,200)',
+ SECTION='';
+
+PART_NAME
+ KERNEL '597-3305-607F_LEDC2012X70N_KERNEL LED':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS8599@597-3305-607F.597-3305-607F.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins8599@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins8599@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,30)',
+ SECTION='';
+
+PART_NAME
+ L1 'L_WE-CBF_0603_W22_600_IND-000002':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS25826@FERRITE BEADS 600 0603.L.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins25826@\ferrite beads 600 0603\.\l.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins25826@\ferrite beads 600 0603\.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,60)',
+ SECTION='';
+
+PART_NAME
+ L2 'IHLP2525CZER150M01_IND_IHLP2525CZER150M01_INDUCTOR 0630 IHLP2525CZER150M01_IND-000004':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS56415@INDUCTOR 0630 IHLP2525CZER150M01.IHLP2525CZER150M01.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins56415@\inductor 0630 ihlp2525czer150m01\.\ihlp2525czer150m01.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins56415@\inductor 0630 ihlp2525czer150m01\.\ihlp2525czer150m01.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,360)',
+ SECTION='';
+
+PART_NAME
+ MCU '597-3305-607F_LEDC2012X70N_MCU LED':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS11054@597-3305-607F.597-3305-607F.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins11054@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins11054@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,290)',
+ SECTION='';
+
+PART_NAME
+ MOTOR1 'SM08B-SRSS-TBLFSN_JST_SM08B-SRSS-TBLFSN_ESC1_CON-000010':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS23780@SH1.0 8 PIN SMD.SM08B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins23780@\sh1.0 8 pin smd\.\sm08b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page3_ins23780@\sh1.0 8 pin smd\.\sm08b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,20)',
+ SECTION='';
+
+PART_NAME
+ MOTOR2 'SM08B-SRSS-TBLFSN_JST_SM08B-SRSS-TBLFSN_ESC2_CON-000010':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS23808@SH1.0 8 PIN SMD.SM08B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins23808@\sh1.0 8 pin smd\.\sm08b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page3_ins23808@\sh1.0 8 pin smd\.\sm08b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,20)',
+ SECTION='';
+
+PART_NAME
+ P1 'ST-TF-003A_SUNTECH_ST-TF-003A_MICROSD SOCKET_CON-000001':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS12610@MICROSD SOCKET ST-TF-003A.ST-TF-003A.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins12610@\microsd socket st-tf-003a\.\st-tf-003a.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins12610@\microsd socket st-tf-003a\.\st-tf-003a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,40)',
+ SECTION='';
+
+PART_NAME
+ R1 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):INS25588@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):ins25588@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_ins25588@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,510)',
+ SECTION='';
+
+PART_NAME
+ R10 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS13042@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins13042@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins13042@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,50)',
+ SECTION='';
+
+PART_NAME
+ R11 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS292@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins292@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins292@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,80)',
+ SECTION='';
+
+PART_NAME
+ R12 '3-2176337-1_RESC1005X40N_22_RES-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS13186@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins13186@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins13186@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,70)',
+ SECTION='';
+
+PART_NAME
+ R13 '3-2176337-1_RESC1005X40N_22_RES-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS13382@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins13382@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins13382@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,90)',
+ SECTION='';
+
+PART_NAME
+ R14 '3-2176337-1_RESC1005X40N_22_RES-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS13410@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins13410@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins13410@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,100)',
+ SECTION='';
+
+PART_NAME
+ R15 '3-2176337-1_RESC1005X40N_22_RES-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS13438@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins13438@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins13438@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,110)',
+ SECTION='';
+
+PART_NAME
+ R16 '3-2176337-1_RESC1005X40N_22_RES-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS13466@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins13466@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins13466@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,120)',
+ SECTION='';
+
+PART_NAME
+ R17 '3-2176337-1_RESC1005X40N_22_RES-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS13494@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins13494@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins13494@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,130)',
+ SECTION='';
+
+PART_NAME
+ R19 '3-2176337-1_RESC1005X40N_120_RES-000009':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS30779@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins30779@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins30779@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,320)',
+ SECTION='';
+
+PART_NAME
+ R2 '3-2176337-1_RESC1005X40N_5.1K_RES-000007':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS18835@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins18835@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins18835@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,90)',
+ SECTION='';
+
+PART_NAME
+ R20 '3-2176337-1_RESC1005X40N_220_RES-000010':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS694@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins694@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins694@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,20)',
+ SECTION='';
+
+PART_NAME
+ R21 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS4069@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins4069@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins4069@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,90)',
+ SECTION='';
+
+PART_NAME
+ R22 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS5342@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins5342@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins5342@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,270)',
+ SECTION='';
+
+PART_NAME
+ R23 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS2313@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins2313@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins2313@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,510)',
+ SECTION='';
+
+PART_NAME
+ R24 '3-2176337-1_RESC1005X40N_220_RES-000010':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS8415@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins8415@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins8415@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,70)',
+ SECTION='';
+
+PART_NAME
+ R25 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS4550@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins4550@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins4550@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,80)',
+ SECTION='';
+
+PART_NAME
+ R26 '3-2176337-1_RESC1005X40N_220_RES-000010':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS8797@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins8797@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins8797@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,30)',
+ SECTION='';
+
+PART_NAME
+ R27 '3-2176337-1_RESC1005X40N_220_RES-000010':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS8433@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins8433@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins8433@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,110)',
+ SECTION='';
+
+PART_NAME
+ R28 '3-2176337-1_RESC1005X40N_220_RES-000010':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS27535@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins27535@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins27535@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,150)',
+ SECTION='';
+
+PART_NAME
+ R29 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS28702@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins28702@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins28702@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,180)',
+ SECTION='';
+
+PART_NAME
+ R3 '3-2176337-1_RESC1005X40N_5.1K_RES-000007':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS18618@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins18618@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins18618@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,130)',
+ SECTION='';
+
+PART_NAME
+ R30 '3-2176337-1_RESC1005X40N_220_RES-000010':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS11080@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins11080@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins11080@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,270)',
+ SECTION='';
+
+PART_NAME
+ R31 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS29212@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins29212@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins29212@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,400)',
+ SECTION='';
+
+PART_NAME
+ R32 '3-2176337-1_RESC1005X40N_4.7K_RES-000011':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS12980@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins12980@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins12980@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,520)',
+ SECTION='';
+
+PART_NAME
+ R33 '3-2176337-1_RESC1005X40N_4.7K_RES-000011':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS12996@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins12996@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins12996@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,520)',
+ SECTION='';
+
+PART_NAME
+ R34 '3-2176337-1_RESC1005X40N_4.7K_RES-000011':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS12283@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins12283@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins12283@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,520)',
+ SECTION='';
+
+PART_NAME
+ R35 '3-2176337-1_RESC1005X40N_4.7K_RES-000011':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS12267@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins12267@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins12267@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,520)',
+ SECTION='';
+
+PART_NAME
+ R36 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS20687@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins20687@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins20687@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,20)',
+ SECTION='';
+
+PART_NAME
+ R37 '3-2176337-1_RESC1005X40N_1K_RES-000012':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS20703@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins20703@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins20703@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,20)',
+ SECTION='';
+
+PART_NAME
+ R38 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS20735@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins20735@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins20735@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,50)',
+ SECTION='';
+
+PART_NAME
+ R39 'CRGCQ0603J10K_RESC1608X55N_10K_RES-000001':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS34885@RESISTOR 0603.CRGCQ0603J10K.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins34885@\resistor 0603\.\crgcq0603j10k.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins34885@\resistor 0603\.\crgcq0603j10k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,40)',
+ SECTION='';
+
+PART_NAME
+ R40 '3-2176337-1_RESC1005X40N_1K_RES-000012':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS35154@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins35154@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins35154@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,70)',
+ SECTION='';
+
+PART_NAME
+ R41 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS20859@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins20859@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins20859@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,190)',
+ SECTION='';
+
+PART_NAME
+ R42 '3-2176337-1_RESC1005X40N_1K_RES-000012':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS20875@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins20875@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins20875@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,190)',
+ SECTION='';
+
+PART_NAME
+ R43 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS20913@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins20913@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins20913@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,220)',
+ SECTION='';
+
+PART_NAME
+ R44 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS26122@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins26122@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins26122@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,220)',
+ SECTION='';
+
+PART_NAME
+ R45 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS30477@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins30477@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins30477@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,410)',
+ SECTION='';
+
+PART_NAME
+ R46 '3-2176337-1_RESC1005X40N_1K_RES-000012':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS30493@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins30493@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins30493@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,410)',
+ SECTION='';
+
+PART_NAME
+ R47 '3-2176337-1_RESC1005X40N_3K_RES-000013':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS30573@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins30573@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins30573@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,490)',
+ SECTION='';
+
+PART_NAME
+ R48 '3-2176337-1_RESC1005X40N_180_RES-000014':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS51094@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins51094@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins51094@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,490)',
+ SECTION='';
+
+PART_NAME
+ R49 '3-2176337-1_RESC1005X40N_33_RES-000015':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS46038@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins46038@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins46038@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,200)',
+ SECTION='';
+
+PART_NAME
+ R5 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS14058@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins14058@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins14058@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,50)',
+ SECTION='';
+
+PART_NAME
+ R50 '3-2176337-1_RESC1005X40N_33_RES-000015':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS46094@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins46094@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins46094@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,210)',
+ SECTION='';
+
+PART_NAME
+ R51 '3-2176337-1_RESC1005X40N_33_RES-000015':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS46123@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins46123@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins46123@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,220)',
+ SECTION='';
+
+PART_NAME
+ R52 '3-2176337-1_RESC1005X40N_33_RES-000015':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS46152@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins46152@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins46152@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,230)',
+ SECTION='';
+
+PART_NAME
+ R53 '3-2176337-1_RESC1005X40N_33_RES-000015':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS46181@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins46181@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins46181@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,250)',
+ SECTION='';
+
+PART_NAME
+ R54 '3-2176337-1_RESC1005X40N_33_RES-000015':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS46210@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins46210@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins46210@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,260)',
+ SECTION='';
+
+PART_NAME
+ R55 '3-2176337-1_RESC1005X40N_33_RES-000015':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS46239@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins46239@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins46239@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,270)',
+ SECTION='';
+
+PART_NAME
+ R56 '3-2176337-1_RESC1005X40N_33_RES-000015':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS46268@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins46268@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins46268@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,280)',
+ SECTION='';
+
+PART_NAME
+ R6 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS14084@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins14084@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins14084@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,50)',
+ SECTION='';
+
+PART_NAME
+ R7 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS14110@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins14110@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins14110@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,50)',
+ SECTION='';
+
+PART_NAME
+ R8 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS14146@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins14146@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins14146@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,50)',
+ SECTION='';
+
+PART_NAME
+ R9 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS17520@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins17520@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins17520@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,50)',
+ SECTION='';
+
+PART_NAME
+ S1 'WS-TASX_2P_434781025816_SAFETY ARM_SW-000001':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS27429@TACTICLE SWITCH 3X6MM.WS-TASX_2P.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins27429@\tacticle switch 3x6mm\.\ws-tasx_2p.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins27429@\tacticle switch 3x6mm\.\ws-tasx_2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,150)',
+ SECTION='';
+
+PART_NAME
+ SAFETY '597-3305-607F_LEDC2012X70N_SAFETY LED':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS8188@597-3305-607F.597-3305-607F.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins8188@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins8188@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,70)',
+ SECTION='';
+
+PART_NAME
+ SENS '597-3305-607F_LEDC2012X70N_SENSOR LED':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS669@597-3305-607F.597-3305-607F.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins669@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins669@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,40)',
+ SECTION='';
+
+PART_NAME
+ STLINK 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_STLINK_CON-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS49216@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins49216@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins49216@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,20)',
+ SECTION='';
+
+PART_NAME
+ U1 'USBLC6-2SC6_SOT95P280X145-6N_USBLC6-2SC6_DIO-000004':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS18505@USBLC6-2SC6.USBLC6-2SC6.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins18505@\usblc6-2sc6\.\usblc6-2sc6.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins18505@\usblc6-2sc6\.\usblc6-2sc6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,220)',
+ SECTION='';
+
+PART_NAME
+ U10 'AMS1117-33_SOT229P700X180-4N_AMS1117-33':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS7975@AMS1117-3.3.AMS1117-33.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins7975@\ams1117-3.3\.\ams1117-33.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins7975@\ams1117-3.3\.\ams1117-33.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,270)',
+ SECTION='';
+
+PART_NAME
+ U11 'TPS5430DDAR_0_CONV_TPS5430DDAR_TPS5430DDAR_IC-000022':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS30331@TRUNG PX4 FLIGHT CONTROL.TPS5430DDAR_0.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins30331@\trung px4 flight control\.\tps5430ddar_0.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page6_ins30331@\trung px4 flight control\.\tps5430ddar_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,360)',
+ SECTION='';
+
+PART_NAME
+ U2 'FM25V05-G_SOIC127P602X173-8N_FM25V05-G_IC-000005':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS187@FM25V05-G.FM25V05-G.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins187@\fm25v05-g\.\fm25v05-g.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins187@\fm25v05-g\.\fm25v05-g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,50)',
+ SECTION='';
+
+PART_NAME
+ U4 'TJA1051T3_SOT96-1_TJA1051T_3_IC-000023':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS28023@TJA1051T_3.TJA1051T3.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins28023@tja1051t_3.\tja1051t3.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page4_ins28023@tja1051t_3.\tja1051t3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,290)',
+ SECTION='';
+
+PART_NAME
+ U5 'RT9193-33GB_SOT94P279X129-5N_RT9193-33GB':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS46@RT9193-33GB.RT9193-33GB.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins46@\rt9193-33gb\.\rt9193-33gb.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins46@\rt9193-33gb\.\rt9193-33gb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,20)',
+ SECTION='';
+
+PART_NAME
+ U6 'HMC5883L_LPCC-16_HMC5883L_IC-000024':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS14044@HMC5883L.HMC5883L.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins14044@hmc5883l.\hmc5883l.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins14044@hmc5883l.\hmc5883l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,210)',
+ SECTION='';
+
+PART_NAME
+ U7 'BMI270_XDCR_BMI270_BMI270':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_SENSOR@TRUNG PX4 FLIGHT CONTROL.FMU_SENSOR(SCH_1):INS4336@BMI270.BMI270.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):ins4336@bmi270.\bmi270.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_sensor@\trung px4 flight control\.fmu_sensor(sch_1):page7_ins4336@bmi270.\bmi270.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,230)',
+ SECTION='';
+
+PART_NAME
+ U9 'STM32H743VIT6_QFP50P1600X1600X160-100N_STM32H743VIT6':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS222@STM32H743VIT6.STM32H743VIT6.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins222@stm32h743vit6.\stm32h743vit6.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins222@stm32h743vit6.\stm32h743vit6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,20)',
+ SECTION='';
+
+PART_NAME
+ UART1 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_UART1_CON-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS20457@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins20457@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins20457@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,40)',
+ SECTION='';
+
+PART_NAME
+ UART3 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_UART3_CON-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS21382@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins21382@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins21382@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,370)',
+ SECTION='';
+
+PART_NAME
+ UART4 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_UART4_CON-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS21190@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins21190@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins21190@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,370)',
+ SECTION='';
+
+PART_NAME
+ UART5 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_UART5_CON-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS20848@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins20848@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins20848@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,210)',
+ SECTION='';
+
+PART_NAME
+ UART6 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_UART6_CON-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS19967@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins19967@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins19967@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,210)',
+ SECTION='';
+
+PART_NAME
+ UART8 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_UART8_CON-000008':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_CONTROL@TRUNG PX4 FLIGHT CONTROL.FMU_CONTROL(SCH_1):INS22378@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_control@\trung px4 flight control\.fmu_control(sch_1):ins22378@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_control@\trung px4 flight control\.fmu_control(sch_1):page2_ins22378@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,40)',
+ SECTION='';
+
+PART_NAME
+ Y2 'ABM8G-24000MHZ-18-R30-D2Y-T_XTAL_ABM8G-24000MHZ-18_24MHZ':;
+
+SECTION_NUMBER 1
+ '@TRUNG PX4 FLIGHT CONTROL.ROOT_TOP(SCH_1):FMU_MCU@TRUNG PX4 FLIGHT CONTROL.FMU_MCU(SCH_1):INS5099@CRYSTAL 24MHZ.ABM8G-24000MHZ-18-R30-D2Y-T.NORMAL(CHIPS)':
+ C_PATH='@\trung px4 flight control\.root_top(sch_1):fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):ins5099@\crystal 24mhz\.\abm8g-24000mhz-18-r30-d2y-t.normal\(chips)',
+ P_PATH='@\trung px4 flight control\.root_top(sch_1):page1_fmu_mcu@\trung px4 flight control\.fmu_mcu(sch_1):page5_ins5099@\crystal 24mhz\.\abm8g-24000mhz-18-r30-d2y-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,430)',
+ SECTION='';
+
+END.
